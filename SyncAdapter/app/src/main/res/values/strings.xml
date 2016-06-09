@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SyncAdapter</string>
+    <string name="sync_account_type">com.annasblackhat.developer.contentprovider</string>
+    <string name="content_authority">com.annasblackhat.developer.contentprovider</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
